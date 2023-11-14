@@ -44,15 +44,6 @@ Refer to [ODP Framework Demo](./demo/README.md).
 
 ---
 
-## Authors
-
-The following people are involved in the design, architecture, development, and testing of this solution:
-
-1. **Srinivas Kandi**, Data Architect, Amazon Web Services Inc.
-1. **Ravi Itha**, Principal Consultant, Amazon Web Services Inc.
-
----
-
 ## License
 
 This project is licensed under the Apache-2.0 License.
